@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Final', 'Trebuchet MS';
+    src: url('../font/FinalFantasy-aa4m.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.h1 {
+    font-size: 450%;
+    text-align: center;
+    font-family: 'Final';
+    line-height: 50%;
+    text-decoration: underline;
+}
+.h2 {
+    line-height: 25%;
+}
+
+.link:hover {
+    font-style: bold;
+    font-size: larger;
+}
+
+.ender {
+    background-color: rgba(255, 255, 255, 0.518);
+}
+
+.header {
+    background-color: rgba(48, 21, 21, 0.362);
+}
+
